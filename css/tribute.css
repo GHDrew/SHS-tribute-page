@@ -1,0 +1,26 @@
+h1 {
+    text-align:center;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1 5px;
+  }
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 0%;
+}
+ul {
+    text-align: center;
+    list-style: inside;
+  }
+
+#tribute-link {
+    color: green;
+    font-weight: bolder;
+    font-size: medium; 
+    font-family: sans-serif;
+    font-style: oblique;
+}
